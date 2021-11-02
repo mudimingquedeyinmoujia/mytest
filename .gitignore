@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+/redner/
+/data/aflw
+/data/300WLP/
